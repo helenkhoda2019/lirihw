@@ -22,29 +22,17 @@ Here is info we got for Bandtown API:
 ![Bandtown API](https://github.com/helenkhoda2019/lirihw/blob/master/concert.png)
 
 
-
-
-
-
 Here is info we got for OMDB API:
 ![OMDB API](https://github.com/helenkhoda2019/lirihw/blob/master/movie.png)
 
 
-
-
-
-
-
-
-
-
 Here is info we got for spotify API:
-![spotify API](https://github.com/helenkhoda2019/lirihw/blob/master/spotify.png)
+![spotify API](https://github.com/helenkhoda2019/lirihw/blob/master/Spotify.png)
 
 
 
 Here is info we got for whatever API:
-![spotify API](https://github.com/helenkhoda2019/lirihw/master/blob/whatever.png)
+![spotify API](https://github.com/helenkhoda2019/lirihw/blob/master/whatever.png)
 
 
 
