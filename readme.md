@@ -19,7 +19,7 @@ The program also makes a request to the Spotify API,OMDB APT and bandintown API 
 
 Here is info we got for Bandtown API:
 
-![Bandtown API](https://github.com/helenkhoda2019/liri-node-app/blob/master/concert.png)
+![Bandtown API](https://github.com/helenkhoda2019/liri-node-app/master/concert.png)
 
 
 
@@ -27,7 +27,7 @@ Here is info we got for Bandtown API:
 
 
 Here is info we got for OMDB API:
-![OMDB API](https://github.com/helenkhoda2019/liri-node-app/blob/master/movie.png)
+![OMDB API](https://github.com/helenkhoda2019/liri-node-app/master/movie.png)
 
 
 
@@ -39,12 +39,12 @@ Here is info we got for OMDB API:
 
 
 Here is info we got for spotify API:
-![spotify API](https://github.com/helenkhoda2019/liri-node-app/blob/master/spotify.png)
+![spotify API](https://github.com/helenkhoda2019/liri-node-app/master/spotify.png)
 
 
 
 Here is info we got for whatever API:
-![spotify API](https://github.com/helenkhoda2019/liri-node-app/blob/master/whatever.png)
+![spotify API](https://github.com/helenkhoda2019/liri-node-app/master/whatever.png)
 
 
 
